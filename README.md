@@ -39,7 +39,7 @@ This is a list of initial pitche topics for the general voting.
 35. Floss /
 36. NeedlelStack / Inventory??
 37. Eric  / Vending machine for greeting cards
-38. Kelo / HabbitMap
+38. Keld / HabbitMap
 39. Michael / Mobile gaming with a story line
 40. Sylnia / 128 social platform
 41. Alex / Anti-social network / life -> online -> task list
