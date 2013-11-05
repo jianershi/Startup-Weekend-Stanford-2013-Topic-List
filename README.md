@@ -47,7 +47,7 @@ This is a list of initial pitche topics for the general voting.
 43. Nick / ShakenBrake / Cyclist / Unidirectional microphone alert you when a car approach by vibrating the handle bar
 44. Grand / Lab inventory system
 45. John / Squareone  / Platform to engage conversation with presentor / vote question / interaction
-46. Dimmitry / Full stack developer 10 years /  photosharing?
+46. Dmitri / Get rid of the problem of iPhone camera roll filling up
 47. Peter / Pandora for television news
 48. Haowei / Analyze skills required from different job postings and do targeted training
 49. Mario / ?
