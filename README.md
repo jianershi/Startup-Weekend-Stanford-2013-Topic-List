@@ -58,7 +58,7 @@ This is a list of initial pitche topics for the general voting.
 54. Nobie / Quadcopter for delivering for food
 55. Nathan / Electromechanical bracing for joints
 56. Charlls / Music you like ?
-57. Adam / Dynamic increase value of coupon, content change depends on who you share it to
+57. Adam / Dynamic Coupon/ Revamp / Dynamic increase value of coupon, content change depends on who you share it to
 58. Gerardo / Government ?
 59. Toan / Make photo frame by using gestures
 60. Madeem / Kanyan ??
