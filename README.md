@@ -1,5 +1,5 @@
 # Github Page Static File
-Github static page files is generated using branch [gh-branch-source](https://github.com/paulshi/Startup-Weekend-Stanford-2013-Topic-List/tree/gh-pages-source)
+Github static page files is generated using branch [gh-pages-source](https://github.com/paulshi/Startup-Weekend-Stanford-2013-Topic-List/tree/gh-pages-source)
 
 ##License
 ```
