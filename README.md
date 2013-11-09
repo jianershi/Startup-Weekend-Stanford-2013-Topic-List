@@ -1,6 +1,8 @@
 # Github Page File Source
 The static page file is generateed by [Jekyll](http://jekyllrb.com/)
+
 The template is provided by [Jekyll Incorporated](incorporated.sendtoinc.com) under MIT license. 
+
 The template has been modified several places to have ```{{ site:baseurl }}``` included in front of static file links. This is because this is not a user/organization github page but instead a project page. Several assumptions by the Jekyll template were thus not correct.
 
 ##License
