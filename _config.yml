@@ -114,7 +114,7 @@ redcloth:
 assets:
 
   dirname: assets
-  baseurl: /assets/
+  baseurl: /Startup-Weekend-Stanford-2013-Topic-List/assets/
   sources:
     - _assets/javascripts
     - _assets/stylesheets
