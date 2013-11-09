@@ -1,7 +1,7 @@
 ---
 layout: base
 ---
-<div class="blog-cover" style="background-image:url(/images/{{ site.inc.cover_image }});">
+<div class="blog-cover" style="background-image:url({{ site.baseurl }}/images/{{ site.inc.cover_image }});">
     
     <section>
         <div class="container">
@@ -41,7 +41,7 @@ layout: base
 
         <footer>
             <address>
-               {% if page.author.image %}<img src="/images/{{ page.author.image }}">{% endif %}
+               {% if page.author.image %}<img src="{{ site.baseurl }}/images/{{ page.author.image }}">{% endif %}
                 <p>Written by <strong><a rel="author" href="https://twitter.com/{{ page.author.twitter }}" title="{{ page.author_name }}" target="_blank">{{ page.author.name }}</a></strong><br>
                 <span class="muted">{{ page.author.bio }}</span>
                 </p>
